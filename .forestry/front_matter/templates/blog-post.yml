@@ -20,3 +20,5 @@ fields:
       format: markdown
   label: body
   description: Body of the document
+pages:
+- test/First blog post.md
