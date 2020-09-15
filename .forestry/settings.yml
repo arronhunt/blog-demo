@@ -4,13 +4,17 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: test
+  label: My Directory
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
 - type: heading
   label: Test Heading
 - type: document
   path: foo
   label: My Document
-  match: "**/*"
-  read_only: false
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
