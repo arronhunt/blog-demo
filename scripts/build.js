@@ -14,7 +14,7 @@ try {
     "UTF-8"
   );
   html = converter.makeHtml(text);
-  console.log(html);
+  console.log("✅ Success");
 } catch (error) {
   console.log("ERROR:", error);
 }
