@@ -14,3 +14,15 @@ What's up buttercup?
 
     Some code goes here
     print("Hello world");
+
+We are now making some changes
+
+> To be, or not to be, that is the question
+
+1. Coffee
+2. Beer
+3. Wine
+
+## Heading 2
+
+More stuff goes here. Let's [link](https://gretel.ai "Gretel.ai") to something.
